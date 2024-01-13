@@ -198,4 +198,5 @@ jekyll-archives:
     category: /categories/:name/
 
 plugins:
- - 'jekyll-sitemap'
+  - jekyll-sitemap
+  - jekyll-gist
